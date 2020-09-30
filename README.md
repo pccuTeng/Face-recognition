@@ -8,3 +8,4 @@
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/pccuTeng/Face-recognition/blob/master/%E5%B0%88%E9%A1%8C%E6%B5%B7%E5%A0%B1.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+![hustlin_erd](https://github.com/pccuTeng/Face-recognition/blob/master/%E5%B0%88%E9%A1%8C%E6%B5%B7%E5%A0%B1.pdf)
